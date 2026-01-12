@@ -39,3 +39,7 @@ pb_migrations/
 
 # Node modules (if you add build tools later)
 node_modules/
+
+.htaccess (only for old site)
+og-image.af
+og-image-large.png
